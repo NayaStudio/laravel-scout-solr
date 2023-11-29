@@ -1,15 +1,15 @@
 {
-    "name": "jeroenherczeg/laravel-scout-solr",
+    "name": "nayastudio/laravel-scout-solr",
     "type": "library",
-    "description": "Solr Driver for Laravel Scout",
+    "description": "Solr Driver for Laravel Scout, based on Jeroen Herczege's solr driver.",
     "keywords": ["laravel", "scout", "solr"],
-    "homepage": "https://github.com/jeroenherczeg/laravel-scout-solr",
+    "homepage": "https://github.com/nayastudio/laravel-scout-solr",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jeroen Herczeg",
-            "email": "jeroen@herczeg.be",
-            "homepage": "https://herczeg.be",
+            "name": "Adam Fedder",
+            "email": "adam@nayastudio.pl",
+            "homepage": "https://nayastudio.pl",
             "role": "Developer"
         }
     ],
